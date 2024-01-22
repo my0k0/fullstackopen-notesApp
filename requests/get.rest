@@ -1,0 +1,6 @@
+# Get all notes
+GET http://localhost:3001/api/notes
+
+### 
+# Get unknown endpoint
+GET http://localhost:3001/unknown
